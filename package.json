@@ -1,0 +1,29 @@
+{
+  "name": "react-linkedin-certification",
+  "version": "1.0.0",
+  "description": "React LinkedIn Certification Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/react-linkedin-certification.git"
+  },
+  "keywords": [
+    "react",
+    "linkedin",
+    "button",
+    "Certification",
+    "linkedin button"
+  ],
+  "author": {
+    "name": "Oscar Barajas",
+    "email": "oscar@arepa.dev"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gndx/react-linkedin-certification/issues"
+  },
+  "homepage": "https://github.com/gndx/react-linkedin-certification#readme"
+}
