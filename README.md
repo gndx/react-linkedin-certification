@@ -39,7 +39,8 @@ export default App;
 # Options
 
 ### lang
-Language of image:
+
+#### Supported languages:
 
 * Czech: cs_CZ
 * Danish: da_DK
