@@ -1,6 +1,6 @@
 {
   "name": "react-linkedin-certification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React LinkedIn Certification Button",
   "main": "build/index.js",
   "scripts": {
