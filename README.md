@@ -41,25 +41,25 @@ export default App;
 ### lang
 Language of image:
 
-Czech: cs_CZ
-Danish: da_DK
-German: de_DE
-English: en_US
-Spanish: es_ES
-French: fr_FR
-Indonesian: in_ID
-Italian: it_IT
-Japanese: ja_JP
-Korean: ko_KR
-Malay: ms_MY
-Dutch: nl_NL
-Norwegian: no_NO
-Portuguese: pt_BR
-Romanian: ro_RO
-Russian: ru_RU
-Swedish: sv_SE
-Turkish: tr_TR
-Chinese: zh_TW
+* Czech: cs_CZ
+* Danish: da_DK
+* German: de_DE
+* English: en_US
+* Spanish: es_ES
+* French: fr_FR
+* Indonesian: in_ID
+* Italian: it_IT
+* Japanese: ja_JP
+* Korean: ko_KR
+* Malay: ms_MY
+* Dutch: nl_NL
+* Norwegian: no_NO
+* Portuguese: pt_BR
+* Romanian: ro_RO
+* Russian: ru_RU
+* Swedish: sv_SE
+* Turkish: tr_TR
+* Chinese: zh_TW
 
 Default language: en_US
 
