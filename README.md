@@ -80,4 +80,4 @@ Name of certification
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [react-linkedin-certification](https://github.com/gndx/react-linkedin-certification)
 
 # License
-React-mailchimp-form is released under the [MIT License](https://opensource.org/licenses/MIT).
+react-linkedin-certification is released under the [MIT License](https://opensource.org/licenses/MIT).
