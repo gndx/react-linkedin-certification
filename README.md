@@ -1,6 +1,11 @@
 # react-linkedin-certification
 
-It provides an easy-to configure component to create your LinkedIn Certificate Buttom in your React project.
+Simply create an “Add to profile” button and place it in your React Project. With a single click, your users can add their certificates to their LinkedIn profiles.
+
+example:
+
+![React](https://raw.githubusercontent.com/arepa-dev/TestComponents/master/files/en_US.png)
+
 
 Based on this documentation:
 [Create your certification button"](https://addtoprofile.linkedin.com/#certs)
